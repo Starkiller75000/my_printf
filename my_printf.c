@@ -1,11 +1,11 @@
 /*
 ** my_printf.c for my_printf in /home/Starkiller/PSU_2016_my_printf
 ** 
-** Made by Bouton Benoit
+** Made by Starkiller
 ** Login   <Starkiller@epitech.net>
 ** 
-** Started on  Sat Nov 12 12:58:58 2016 Bouton Benoit
-** Last update Sat Nov 26 16:45:28 2016 Bouton Benoit
+** Started on  Sat Nov 12 12:58:58 2016 Starkiller
+** Last update Sat Nov 26 16:45:28 2016 Starkiller
 */
 
 #include <stdarg.h>
