@@ -1,2 +1,2 @@
 # my_printf
-printf
+Fonction printf recodé
