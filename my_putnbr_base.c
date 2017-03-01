@@ -1,11 +1,11 @@
 /*
 ** my_putnbr_base.c for my_putnbr_base in /home/Starkiller/CPool_Day06
 ** 
-** Made by Bouton Benoit
+** Made by starkiller
 ** Login   <Starkiller@epitech.net>
 ** 
-** Started on  Tue Oct 11 11:35:10 2016 Bouton Benoit
-** Last update Tue Nov 15 14:54:49 2016 Bouton Benoit
+** Started on  Tue Oct 11 11:35:10 2016 starkiller
+** Last update Tue Nov 15 14:54:49 2016 starkiller
 */
 
 int	my_putnbrbase(int nbr, char *base)
